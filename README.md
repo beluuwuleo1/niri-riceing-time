@@ -1,5 +1,5 @@
 # insatllation
-1 install noctlia 
+1 install noctalia 
 Choose the installation command that matches your Linux distribution:
 
 #### Ubuntu / Debian / Mint (APT)
